@@ -1,3 +1,1 @@
-# nvim-config
-
 # IN PROGRESS
